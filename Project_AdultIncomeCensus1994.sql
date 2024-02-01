@@ -1,4 +1,4 @@
---- Personal Project to Practice SQL Skills | Completed in Azure Data Studio
+--- Personal Project to Practice SQL Skills - Completed in Azure Data Studio
 
 -- Pulling Up All The Data 
 
